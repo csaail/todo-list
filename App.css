@@ -1,0 +1,67 @@
+body {
+  background-color: teal;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 400%;
+  color:coral;
+}
+
+h3 {
+  color:white;
+  font-size: medium;
+}
+
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 300px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+
+}
+
+button:hover{
+  background-color: rgb(5, 184, 184);
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  border: black;
+}
+
+table th,table td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+table th {
+  background-color: #f2f2f2;
+}
+
+table td:last-child {
+  text-align: center;
+}
+
+table td:last-child .fa-edit {
+  margin-right: 40px;
+}
