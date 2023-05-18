@@ -17,7 +17,7 @@ Welcome to TodoList! This is a simple web application built with React that allo
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes:
 
-1. Clone the repository: `git clone https://github.com/your-username/TodoList.git`
+1. Clone the repository: `https://github.com/csaail/todo-list.git`
 2. Navigate to the project directory: `cd TodoList`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -26,8 +26,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
